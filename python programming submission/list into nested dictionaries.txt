@@ -1,6 +1,0 @@
-list = [1, 2, 3, 4]
-dict = cur = {}
-for name in list:
-    cur[name] = {}
-    cur = cur[name]
-print(dict)
